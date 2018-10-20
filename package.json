@@ -1,0 +1,29 @@
+{
+  "name": "node_michelada",
+  "version": "1.0.0",
+  "description": "Ejemplos de node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisrag/curso_node.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "curso",
+    "chido"
+  ],
+  "author": "Israel Rincon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jisrag/curso_node/issues"
+  },
+  "homepage": "https://github.com/jisrag/curso_node#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
